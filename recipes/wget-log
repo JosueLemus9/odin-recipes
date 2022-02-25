@@ -1,11 +1,0 @@
---2022-02-24 22:29:17--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7407255.jpg
-Resolviendo imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 65.9.149.98, 65.9.149.37, 65.9.149.41, ...
-Conectando con imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)[65.9.149.98]:443... conectado.
-Petición HTTP enviada, esperando respuesta... 200 OK
-Longitud: 2340678 (2.2M) [image/jpeg]
-Guardando como: “image?url=https:%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7407255.jpg”
-
-          image?url   0%[                   ]       0  --.-KB/s                        image?url=  37%[======>            ] 855.74K  2.76MB/s               image?url=https:%2F 100%[==================>]   2.23M  6.87MB/s    en 0.3s    
-
-2022-02-24 22:29:18 (6.87 MB/s) - “image?url=https:%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7407255.jpg” guardado [2340678/2340678]
-
